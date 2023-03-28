@@ -1,0 +1,10 @@
+td input {
+  border: none;
+  padding: 0 6px;
+  letter-spacing: 1px;
+}
+
+td input:focus {
+  outline: 1px solid gray;
+}
+/*# sourceMappingURL=style.css.map */
